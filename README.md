@@ -32,3 +32,5 @@ By incentivizing voting through rewards,app can provide the following benefits: 
 <img src='./Screenshot/three.jpeg' />
 <img src='./Screenshot/four.jpeg' />
 
+### Special Thanks To VincentE#5634 from Mantle Discord to help us out ! 
+
