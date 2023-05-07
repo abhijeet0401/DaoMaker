@@ -21,5 +21,14 @@ By incentivizing voting through rewards,app can provide the following benefits: 
 
 ### [Mantle Network](https://github.com/abhijeet0401/DaoMaker/blob/c5e18b4441d73c917e31786512b36d98e7424ef5/Vote/app/src/main/java/com/example/voteapp/FingerprintHandler.kt#L60]([https://github.com/pythonicode/nearsound/blob/main/context/NearProvider.js](https://github.com/abhijeet0401/DaoMaker/blob/c5e18b4441d73c917e31786512b36d98e7424ef5/Vote/app/src/main/java/com/example/voteapp/FingerprintHandler.kt#L60))
 
-## Deployed Smart Contract
+## Deployed Smart Contract https://explorer.testnet.mantle.xyz/address/0x3FCa5663E099EA5063ebd317B512810efA55e882
+
+## ScreenShot of the Application
+
+<img src='./Screenshot/one.jpeg' />
+
+<img src='./Screenshot/two.jpeg' />
+
+<img src='./Screenshot/three.jpeg' />
+<img src='./Screenshot/four.jpeg' />
 
